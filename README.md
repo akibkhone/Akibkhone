@@ -3,10 +3,9 @@
 
 </div>
 
-I'm a Sophomore at Anjunan College OfEngineering & Technology, Nagour. 
-<br>
+I'm a Sophomore at Anjunan College Of Engineering & Technology, Nagpur. 
+<br><br>
 <img src="code.gif" />
-
 
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 **A Bit More about me:** 
@@ -21,21 +20,12 @@ I'm a Sophomore at Anjunan College OfEngineering & Technology, Nagour.
 
 **Learning and working with:** <br/><br/>
 <a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
-
 <a href="https://github.com/" title="GitHub"><img src="github-dark.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="HTML CSS"><img src="htmlcss.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="bootstrap.png" /></a>
-
-
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
 
-
-
-
-
-
 <div align="center">
-
 
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet you more!</b> :)</em>
