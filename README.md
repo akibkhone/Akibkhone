@@ -3,7 +3,7 @@
 
 </div>
 
-I'm a Sophomore at Anjunan College Of Engineering & Technology, Nagpur. 
+I'm a Sophomore at Anjuman College Of Engineering & Technology, Nagpur. 
 <br><br>
 <img src="code.gif" />
 
