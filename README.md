@@ -3,7 +3,7 @@
 
 </div>
 
-I'm a Sophomore at Anjuman College Of Engineering & Technology, Nagpur. 
+I'm a Computer Science Graduate from Nagpur University. 
 <br><br>
 <img src="code.gif" />
 
