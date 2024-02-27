@@ -25,7 +25,6 @@ I'm a Computer Science Graduate from Nagpur University and an experienced Full S
 <a href="https://twitter.com/theonlyyaman" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/akibkhone" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://akibkhan.tk" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-%FF69B4?style=for-the-badge" /></a>
-<a href="https://instagram.com/wtf.yaman" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 </div>
 
 🔹 Java | Spring | Spring Boot | Hibernate | React | HTML | CSS <br />
