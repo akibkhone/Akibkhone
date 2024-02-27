@@ -10,7 +10,7 @@ I'm a Computer Science Graduate from Nagpur University and an experienced Full S
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 /> 
 **A Bit More about me:** 
 - 😄 Pronouns: He/Him/His
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 🔭 I’m currently working as a freelancer.
 
 - ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
@@ -28,8 +28,8 @@ I'm a Computer Science Graduate from Nagpur University and an experienced Full S
 <a href="https://instagram.com/wtf.yaman" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 </div>
 
-🔹 Java | Spring | Spring Boot | Hibernate | React | HTML | CSS
-🔹 Microservices Architecture | RESTful APIs
-🔹 MySQL | MongoDB | Database Optimization
-🔹 Strong Problem-Solving Skills | Data Structures
-🔹 Agile Methodologies | Team Collaboration
+🔹 Java | Spring | Spring Boot | Hibernate | React | HTML | CSS <br />
+🔹 Microservices Architecture | RESTful APIs<br />
+🔹 MySQL | MongoDB | Database Optimization<br />
+🔹 Strong Problem-Solving Skills | Data Structures<br />
+🔹 Agile Methodologies | Team Collaboration<br />
