@@ -1,13 +1,13 @@
 <div align="center">
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Akib! <img src="wave.gif" width="30px" /></h2>
-
 </div>
 
-I'm a Computer Science Graduate from Nagpur University. 
+I'm a Computer Science Graduate from Nagpur University and an experienced Full Stack Java Developer specializing in Microservices, Spring boot, Hibernate, MySQL, and MongoDB. With over 1.9 years of hands-on Java development experience, I excel in crafting robust and scalable backend solutions. My expertise lies in designing Microservices architecture using Spring Boot, optimizing database performance with Hibernate, and working collaboratively in cross-functional teams.
+
 <br><br>
 <img src="code.gif" />
 
-<img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
+<img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 /> 
 **A Bit More about me:** 
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning Web Development.
@@ -18,15 +18,6 @@ I'm a Computer Science Graduate from Nagpur University.
 ### _Random joke for you_ 😉
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
-**Learning and working with:** <br/><br/>
-<a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="github-dark.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="HTML CSS"><img src="htmlcss.png" /></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="bootstrap.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
-
-<div align="center">
-
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet you more!</b> :)</em>
 <h3> Find me on</h3>
@@ -36,3 +27,9 @@ I'm a Computer Science Graduate from Nagpur University.
 <a href="https://akibkhan.tk" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-%FF69B4?style=for-the-badge" /></a>
 <a href="https://instagram.com/wtf.yaman" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 </div>
+
+🔹 Java | Spring | Spring Boot | Hibernate | React | HTML | CSS
+🔹 Microservices Architecture | RESTful APIs
+🔹 MySQL | MongoDB | Database Optimization
+🔹 Strong Problem-Solving Skills | Data Structures
+🔹 Agile Methodologies | Team Collaboration
