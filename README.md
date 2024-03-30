@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://akib-portfolio.onrender.com/](https://akib-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://akibfolio.pages.dev](https://akibfolio.pages.dev)
 
 - 💬 Ask me about **Java, Spring boot**
 
-- 📫 How to reach me **akibkhone@gmail.com**
+- 📫 How to reach me **akib.backend@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NHBoyktPg5cRcfxMpgDvLTu3juvYbnN7/view?usp=drivesdk](https://drive.google.com/file/d/1NHBoyktPg5cRcfxMpgDvLTu3juvYbnN7/view?usp=drivesdk)
 
