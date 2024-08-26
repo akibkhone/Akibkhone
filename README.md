@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akib</h1>
-<h3 align="center">Passionate Java Developer adept at crafting robust backend solutions. Passionate about Microservices, Spring Boot, and database optimization</h3>
+<h3 align="center">Java Developer adept at crafting robust backend solutions. Passionate about Microservices, Spring Boot, and database optimization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akibkhone&label=Profile%20views&color=0e75b6&style=flat" alt="akibkhone" /> </p>
 
